@@ -2,4 +2,4 @@ Today the sky looked like it couldn’t decide what color it wanted to be. Somew
 
 This file exists for no important reason. It contains words, sentences, and thoughts that don’t need to connect to each other. That’s kind of the point. Not everything has to mean something.
 
-commits from feature branch1
+changes made from master branch 1
